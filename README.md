@@ -1,10 +1,10 @@
 # furBaby
 
-![image]()
+![image](https://github.com/BlueSky0203/furBaby/blob/main/image/puppy1.png)
 
-![image]()
+![image](https://github.com/BlueSky0203/furBaby/blob/main/image/puppy2.png)
 
-![image]()
+![image](https://github.com/BlueSky0203/furBaby/blob/main/image/puppy3.png)
 
 ## Introduction
 - Use the technique of grid system to create RWD web
